@@ -19,7 +19,7 @@ public class ScanfEx1 {
 		System.out.println(num);
 		
 		//test
-		
+		//이러면 어떻게 되나?
 		
 		
 	}
