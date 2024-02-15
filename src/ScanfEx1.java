@@ -18,6 +18,8 @@ public class ScanfEx1 {
 		int num=Integer.parseInt(scanner.nextLine()); //위의 2줄을 1줄로 표현
 		System.out.println(num);
 		
+		//test
+		
 		
 		
 	}
