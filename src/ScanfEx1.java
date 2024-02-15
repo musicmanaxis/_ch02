@@ -21,7 +21,7 @@ public class ScanfEx1 {
 		//test
 		//이러면 어떻게 되나?
 		
-		
+		//다시 수정해보자...깃허
 	}
 
 }
